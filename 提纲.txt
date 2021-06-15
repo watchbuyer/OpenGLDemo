@@ -48,8 +48,29 @@
 
 网格参数化
 
-蓝湖 liuwei01@shining3d.com
+蓝湖 liuwei01@shining3d.com Lw3.14159265358
 https://lanhuapp.com/web/#/item?tid=8545862f-3212-412f-a0d4-c8c184a0fccb&fid=all
+
+
+
+详细设计画类图
+系统实现给代码
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
